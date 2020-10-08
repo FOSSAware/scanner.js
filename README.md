@@ -6,9 +6,9 @@ You can see this working in the [LIVE DEMO](https://osskb.org/scanner.js/index.h
 
 # How does it work
 
-This reference code illustrate the usage of the SCANOSS API to obtain file identification without against the OSSKB without sending the actual code, but instead the WFP hashes
+This reference code illustrates the usage of the SCANOSS API to obtain file identification without against the OSSKB without sending the actual code, but instead the WFP hashes
 
-A simple file selection form is displayed. By selecting a file, its contents will be loaded into memory and the WFP hashes will be calculated and displayed on the left.
+A simple file selection form is displayed. By selecting a file, its contents will be loaded into memory and the WFP hashes will be calculated and displayed on the left side.
 
 Once hashes are calculated, they can be submitted by pressing the Submit button.
 
