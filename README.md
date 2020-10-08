@@ -1,4 +1,5 @@
 # scanner.js
+
 Simple Javascript implementation of the SCANOSS API that identifies files against the free OSSKB (Open Source KB)
 
 You can see this working in the [LIVE DEMO](https://osskb.org/scanner.js/index.html)
@@ -12,3 +13,8 @@ A simple file selection form is displayed. By selecting a file, its contents wil
 Once hashes are calculated, they can be submitted by pressing the Submit button.
 
 Scan results from the [osskb.org](https://osskb.org) are displayed on the right side.
+
+# License
+
+scanner.js is released under the GPL 2.0 license. Please check the LICENSE file for further details.
+
